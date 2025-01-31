@@ -13,12 +13,12 @@
     ],
     "require": {
         "php": "^8.1",
-        "chevere/action": "^1.0.0",
-        "chevere/http": "^0.4.0",
-        "chevere/parameter": "^1.0.0",
-        "chevere/router": "^0.6.0",
-        "chevere/schwager": "^0.2.0",
-        "chevere/standard": "^1.0.0",
+        "chevere/action": "^1.0.2",
+        "chevere/http": "^0.5.0",
+        "chevere/parameter": "^1.0.7",
+        "chevere/router": "^0.7.0",
+        "chevere/schwager": "^0.2.1",
+        "chevere/standard": "^1.0.1",
         "symfony/yaml": "^6|^7"
     },
     "require-dev": {
