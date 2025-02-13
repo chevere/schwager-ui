@@ -19,7 +19,7 @@
         "chevere/http": "^0.5.x-dev",
         "chevere/parameter": "^1.1.x-dev",
         "chevere/router": "^0.7.x-dev",
-        "chevere/schwager": "^0.2.1",
+        "chevere/schwager": "^0.2.x-dev",
         "chevere/standard": "^1.0.1",
         "symfony/yaml": "^6|^7"
     },
